@@ -1,0 +1,84 @@
+ody {
+  padding: 0;
+  margin: 0;
+  border: none;
+
+}
+
+div.big-box {
+  font-family: Arial;
+  width: 365px;
+  height: 600px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+
+}
+#banner {
+  font-size: 40px;
+
+}
+#find-iphone-icon {
+  height: 150px;
+  width: 150px;
+}
+
+
+.id-box, .pass-box {
+  height: 40x;
+  padding: 8px 8px;
+  font-size: 12px;
+}
+
+.id-box {
+  border: solid 0.5px #d3d3d3;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom: none;
+
+}
+
+.pass-box {
+   border: solid 0.5px #d3d3d3;
+   border-bottom-left-radius: 15px;
+   border-bottom-right-radius: 15px;
+}
+
+
+input {
+  border: none;  
+}
+
+input:focus {
+  outline: none;
+}
+a {
+  color: #00cc00
+
+}
+a:link {
+	 text-decoration: none;
+	 text-align: center;
+}
+a:hover {
+	text-decoration: #006600;
+}
+.center {
+	text-align: center;
+	font-family: Arial;
+ }
+.sign-in {
+	 font-size: 25px;
+	 
+}
+	
+.links-part {
+  font-size: 15px;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  border: none;
+  color: #00cc00
